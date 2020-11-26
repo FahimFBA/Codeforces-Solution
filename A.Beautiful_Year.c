@@ -13,7 +13,7 @@ int main() {
         if (a!=b && a!=c && a!=d && b!=c && b!=d && c!=d)
         {
             break;
-        }
+        } 
 
     }
     printf("%d\n" , year);
