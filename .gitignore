@@ -1,5 +1,6 @@
 #ignore all exe 
 *.exe 
+solve.exe
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
