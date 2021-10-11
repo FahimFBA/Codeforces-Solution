@@ -2,8 +2,8 @@
 #include <string.h>
 int main()
 {
-    char str1[100];
-    char str2[100] = "hello";
+    char str1[101];
+    char str2[101] = "hello";
     scanf("%s", &str1);
     int i, j = 0, count = 0;
     int len = strlen(str1);
