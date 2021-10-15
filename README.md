@@ -6,7 +6,8 @@
 |  Problem ID | Problem Name   | Question  | Answer   |
 |-------------|----------------|-----------|----------|
 |  1A         | Theatre Square |[Question](https://codeforces.com/problemset/problem/1/A)|      [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1A%20Theatre%20Square/A.Theatre_Square.py)    |
-|4A | Watermelon | [Question](https://codeforces.com/problemset/problem/4/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/4A%20Watermelon/Solve.py)|
+|4A | Watermelon | [Question](https://codeforces.com/problemset/problem/4/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/4A%20Watermelon/Solve.c)|
+| 41A | 41A Translation | [Question](https://codeforces.com/problemset/problem/41/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/41A%20Translation/solve.py) |
 | 50A | Domino Piling | [Question](https://codeforces.com/problemset/problem/50/A)| [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/50A%20Domino%20Piling/solve.c)|
 | 58A | Chat Room | [Question](https://codeforces.com/problemset/problem/58/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/58A%20Chat%20Room/solve.c) |
 |59A | Word | [Question](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/59A%20Word/A_Word.c) |
@@ -17,6 +18,7 @@
 |112A| Petya and Strings | [Question](https://codeforces.com/problemset/problem/112/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/112A%20Petya%20and%20Strings/solve.py) |
 |116A| Tram | [Question](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/116A%20Tram/solve.c) |
 |158A| Next Round | [Question](https://codeforces.com/problemset/problem/158/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/158A%20Next%20Round/A_Next_Round.c) |
+|160A| Twins | [Question](https://codeforces.com/problemset/problem/160/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/160A%20Twins/solve.cpp) |
 |231A| Team | [Question](https://codeforces.com/problemset/problem/231/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/231A%20Team/A_Team.c) |
 |236A| Boy or Girl | [Question](https://codeforces.com/problemset/problem/236/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/236A%20Boy%20or%20Girl/A_Boy_Or_Girl.py) |
 |263A| Beautiful Matrix | [Question](https://codeforces.com/problemset/problem/263/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/263A%20Beautiful%20Matrix/Beautiful_Matrix.cpp) | 
@@ -26,11 +28,16 @@
 |281A| Word Capitalization | [Question](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/tree/main/281A%20Word%20Capitalization) |
 |282A| Bit++ | [Question](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/282A%20Bit%2B%2B/solve.c) |
 |339A| Helpful Maths| [Question](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/339A%20Helpful%20Maths/solve.py) |
+|467A| George and Accommodation| [Question](https://codeforces.com/problemset/problem/467/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/467A%20George%20and%20Accommodation/solve.cpp) | 
 |546A| Soldier and Bananas | [Question](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/546A%20Soldier%20and%20Bananas/solve.cpp) |
 |617A| Elephant | [Question](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/617A%20Elephant/solve.c) |
 |670A| Holidays | [Question](https://codeforces.com/problemset/problem/670/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/670A%20Holidays/A_Holidays.c) |
+|677A| Vanya and Fence| [Question](https://codeforces.com/contest/677/problem/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/677A%20Vanya%20and%20Fence/solve.cpp) |
+|734A| Anton and Danik | [Question](https://codeforces.com/contest/734/problem/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/734A%20Anton%20and%20Danik/solve.cpp) |
 |791A| Bear and Big Brother | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c) |
 |977A| Wrong Subtraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c) |
+
+
 
 
 
