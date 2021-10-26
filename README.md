@@ -3,7 +3,6 @@
 # Codeforces Solution 
 
 
-
 | Problem ID | Problem Name                 | Question                                                    | Answer                                                                                                                         |
 |------------|------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 1A         | Theatre Square               | [Question](https://codeforces.com/problemset/problem/1/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1A%20Theatre%20Square/A.Theatre_Square.py)                |
@@ -43,15 +42,11 @@
 | 617A       | Elephant                     | [Question](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/617A%20Elephant/solve.c)                                  |
 | 670A       | Holidays                     | [Question](https://codeforces.com/problemset/problem/670/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/670A%20Holidays/A_Holidays.c)                             |
 | 677A       | Vanya and Fence              | [Question](https://codeforces.com/contest/677/problem/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/677A%20Vanya%20and%20Fence/solve.cpp)                     |
+| 705A       | Hulk                         | [Question](https://codeforces.com/contest/705/problem/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/705A%20Hulk/solve.c)                                      |
 | 734A       | Anton and Danik              | [Question](https://codeforces.com/contest/734/problem/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/734A%20Anton%20and%20Danik/solve.cpp)                     |
 | 791A       | Bear and Big Brother         | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c)                |
 | 977A       | Wrong Subtraction            | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c)                       |
 | 1030A      | In Search of an Easy Problem | [Question](https://codeforces.com/contest/1030/problem/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1030A%20In%20Search%20of%20an%20Easy%20Problem/solve.cpp) |
-
-
-
-
-
 
 
 
