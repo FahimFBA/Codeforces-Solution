@@ -4,20 +4,33 @@ using namespace std;
 
 int main()
 {
-    int n, i, count = 0;
-
+    int n, i, j, high, highest;
     cin >> n;
     int array[n];
     for (i = 0; i < n; i++)
     {
         cin >> array[i];
-        for (i = 1; i < n; i++)
+    }
+    high = 1, highest = 1;
+    for (j = 1; j < n; j++)
+    {
+
+        if (array[j] >= array[j - 1])
         {
-            if (array[i] >= array[i - 1])
+            high++;
+            if (high > highest)
             {
-                count++;
+                highest = high;
+            }
+            else
+            {
+                continue;
             }
         }
+        else
+        {
+            high = 1;
+        }
     }
-    cout << count << endl;
+    cout << highest << endl;
 }
