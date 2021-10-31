@@ -2,3 +2,8 @@
 *.exe
 
 #ignore temporary files
+
+# non extension
+*
+!/**/
+!*.*
