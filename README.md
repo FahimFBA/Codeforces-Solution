@@ -39,6 +39,7 @@
 | 467A       | George and Accommodation     | [Question](https://codeforces.com/problemset/problem/467/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/467A%20George%20and%20Accommodation/solve.cpp)            |
 | 486A       | Calculating Function         | [Question](https://codeforces.com/problemset/problem/486/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/486A%20Calculating%20Function/solve.cpp)                  |
 | 546A       | Soldier and Bananas          | [Question](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/546A%20Soldier%20and%20Bananas/solve.cpp)                 |
+| 580A       | Kefa and First Steps         | [Question](https://codeforces.com/problemset/problem/580/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/580A%20Kefa%20and%20First%20Steps/solve.cpp)              |
 | 617A       | Elephant                     | [Question](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/617A%20Elephant/solve.c)                                  |
 | 670A       | Holidays                     | [Question](https://codeforces.com/problemset/problem/670/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/670A%20Holidays/A_Holidays.c)                             |
 | 677A       | Vanya and Fence              | [Question](https://codeforces.com/contest/677/problem/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/677A%20Vanya%20and%20Fence/solve.cpp)                     |
@@ -47,6 +48,14 @@
 | 791A       | Bear and Big Brother         | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c)                |
 | 977A       | Wrong Subtraction            | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c)                       |
 | 1030A      | In Search of an Easy Problem | [Question](https://codeforces.com/contest/1030/problem/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1030A%20In%20Search%20of%20an%20Easy%20Problem/solve.cpp) |
+
+
+
+
+
+
+
+
 
 
 
