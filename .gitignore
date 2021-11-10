@@ -2,6 +2,8 @@
 *.exe
 
 #ignore temporary files
+tempCodeRunner.cpp
+tempCodeRunner.c
 
 # non extension
 *
