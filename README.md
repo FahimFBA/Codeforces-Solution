@@ -2,8 +2,6 @@
 
 # Codeforces Solution 
 
-
-
 | Problem ID | Problem Name                        | Question                                                    | Answer                                                                                                                                 |
 |------------|-------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | 1A         | Theatre Square                      | [Question](https://codeforces.com/problemset/problem/1/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1A%20Theatre%20Square/A.Theatre_Square.py)                        |
@@ -39,7 +37,9 @@
 | 318A       | Even Odds                           | [Question](https://codeforces.com/problemset/problem/318/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/318A%20Even%20Odds/solve.cpp)                                     |
 | 339A       | Helpful Maths                       | [Question](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/339A%20Helpful%20Maths/solve.py)                                  |
 | 344A       | Magnets                             | [Question](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/344A%20Magnets/solve.cpp)                                         |
+| 405A       | Gravity Flip                        | [Question](https://codeforces.com/problemset/problem/405/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/405A%20Gravity%20Flip/solve.cpp)                                  |
 | 467A       | George and Accommodation            | [Question](https://codeforces.com/problemset/problem/467/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/467A%20George%20and%20Accommodation/solve.cpp)                    |
+| 469A       | I wanna Be the Guy                  | [Question](https://codeforces.com/problemset/problem/469/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/469A%20I%20wanna%20Be%20the%20Guy/solve.cpp)                      |
 | 479A       | Expression                          | [Question](https://codeforces.com/problemset/problem/479/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/479A%20Expression/solve.cpp)                                      |
 | 486A       | Calculating Function                | [Question](https://codeforces.com/problemset/problem/486/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/486A%20Calculating%20Function/solve.cpp)                          |
 | 546A       | Soldier and Bananas                 | [Question](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/546A%20Soldier%20and%20Bananas/solve.cpp)                         |
@@ -52,12 +52,6 @@
 | 791A       | Bear and Big Brother                | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c)                        |
 | 977A       | Wrong Subtraction                   | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c)                               |
 | 1030A      | In Search of an Easy Problem        | [Question](https://codeforces.com/contest/1030/problem/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1030A%20In%20Search%20of%20an%20Easy%20Problem/solve.cpp)         |
-
-
-
-
-
-
 
 
 
