@@ -22,6 +22,7 @@
 | 131A       | cAPS lOCK                           | [Question](https://codeforces.com/problemset/problem/131/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/131A%20cAPS%20lOCK/solve.cpp)                                     |
 | 133A       | HQ9+                                | [Question](https://codeforces.com/problemset/problem/133/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/133A%20HQ9%2B/solve.py)                                           |
 | 136A       | Presents                            | [Question](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/136A%20Presents/solve.c)                                          |
+| 148A |  Insomnia Cure | [Question](https://codeforces.com/contest/148/problem/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/148A%20Insomnia%20Cure/solve.cpp) |
 | 158A       | Next Round                          | [Question](https://codeforces.com/problemset/problem/158/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/158A%20Next%20Round/A_Next_Round.c)                               |
 | 160A       | Twins                               | [Question](https://codeforces.com/problemset/problem/160/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/160A%20Twins/solve.cpp)                                           |
 | 200B       | Drinks                              | [Question](https://codeforces.com/problemset/problem/200/B) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/200B%20Drinks/solve.c)                                            |
@@ -52,6 +53,7 @@
 | 791A       | Bear and Big Brother                | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c)                        |
 | 977A       | Wrong Subtraction                   | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c)                               |
 | 1030A      | In Search of an Easy Problem        | [Question](https://codeforces.com/contest/1030/problem/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1030A%20In%20Search%20of%20an%20Easy%20Problem/solve.cpp)         |
+
 
 
 
