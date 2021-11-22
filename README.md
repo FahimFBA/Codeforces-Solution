@@ -3,12 +3,12 @@
  Codeforces Solution 
  </h1>
 
-<h2 align= "center">
 
-  <u> Cloud Build </u>
+
+##  <u> Cloud Build </u>
 
 Visit [here](https://gitpod.io/#https://github.com/FahimFBA/Codeforces-Solution) to launch a [Gitpod.io](https://gitpod.io) IDE that will allow you to build, preview and make changes to this repo.
-</h2>
+
 
 <br>
 
