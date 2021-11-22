@@ -1,17 +1,24 @@
 
+<h1 align=center>
+ Codeforces Solution 
+ </h1>
 
-# Codeforces Solution 
+<h2 align= "center">
 
-
-##  <u> Cloud Build </u>
+  <u> Cloud Build </u>
 
 Visit [here](https://gitpod.io/#https://github.com/FahimFBA/Codeforces-Solution) to launch a [Gitpod.io](https://gitpod.io) IDE that will allow you to build, preview and make changes to this repo.
+</h2>
 
 <br>
 
-## Index
+<h2 align = "center">
+
+ Index
+</h2>
 
 <hr>
+
 
 
 
@@ -36,10 +43,12 @@ Visit [here](https://gitpod.io/#https://github.com/FahimFBA/Codeforces-Solution)
 | 131A       | cAPS lOCK                           | [Question](https://codeforces.com/problemset/problem/131/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/131A%20cAPS%20lOCK/solve.cpp)                                     |
 | 133A       | HQ9+                                | [Question](https://codeforces.com/problemset/problem/133/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/133A%20HQ9%2B/solve.py)                                           |
 | 136A       | Presents                            | [Question](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/136A%20Presents/solve.c)                                          |
+| 144A       | Arrival of the General              | [Question](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/144A%20Arrival%20of%20the%20General/solve.cpp)                    |
 | 148A       | Insomnia Cure                       | [Question](https://codeforces.com/contest/148/problem/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/148A%20Insomnia%20Cure/solve.cpp)                                 |
 | 158A       | Next Round                          | [Question](https://codeforces.com/problemset/problem/158/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/158A%20Next%20Round/A_Next_Round.c)                               |
 | 160A       | Twins                               | [Question](https://codeforces.com/problemset/problem/160/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/160A%20Twins/solve.cpp)                                           |
 | 200B       | Drinks                              | [Question](https://codeforces.com/problemset/problem/200/B) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/200B%20Drinks/solve.c)                                            |
+| 208A       | Dubstep                             | [Question](https://codeforces.com/problemset/problem/208/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/208A%20Dubstep/solve.cpp)                                         |
 | 228A       | Is your horseshoe on the other hoof | [Question](https://codeforces.com/problemset/problem/228/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/228A%20Is%20your%20horseshoe%20on%20the%20other%20hoof/solve.cpp) |
 | 231A       | Team                                | [Question](https://codeforces.com/problemset/problem/231/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/231A%20Team/A_Team.c)                                             |
 | 236A       | Boy or Girl                         | [Question](https://codeforces.com/problemset/problem/236/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/236A%20Boy%20or%20Girl/A_Boy_Or_Girl.py)                          |
@@ -67,6 +76,9 @@ Visit [here](https://gitpod.io/#https://github.com/FahimFBA/Codeforces-Solution)
 | 791A       | Bear and Big Brother                | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c)                        |
 | 977A       | Wrong Subtraction                   | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c)                               |
 | 1030A      | In Search of an Easy Problem        | [Question](https://codeforces.com/contest/1030/problem/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1030A%20In%20Search%20of%20an%20Easy%20Problem/solve.cpp)         |
+
+
+
 
 
 
