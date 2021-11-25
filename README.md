@@ -13,8 +13,7 @@ Visit [here](https://gitpod.io/#https://github.com/FahimFBA/Codeforces-Solution)
 <br>
 
 <h2 align = "center">
-
- Index
+Index
 </h2>
 
 <hr>
@@ -23,8 +22,10 @@ Visit [here](https://gitpod.io/#https://github.com/FahimFBA/Codeforces-Solution)
 
 
 
+
+
 | Problem ID | Problem Name                        | Question                                                    | Answer                                                                                                                                 |
-| ---------- | ----------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+|------------|-------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | 1A         | Theatre Square                      | [Question](https://codeforces.com/problemset/problem/1/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1A%20Theatre%20Square/A.Theatre_Square.py)                        |
 | 4A         | Watermelon                          | [Question](https://codeforces.com/problemset/problem/4/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/4A%20Watermelon/Solve.c)                                          |
 | 41A        | 41A Translation                     | [Question](https://codeforces.com/problemset/problem/41/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/41A%20Translation/solve.py)                                       |
@@ -59,6 +60,7 @@ Visit [here](https://gitpod.io/#https://github.com/FahimFBA/Codeforces-Solution)
 | 281A       | Word Capitalization                 | [Question](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/tree/main/281A%20Word%20Capitalization)                                     |
 | 282A       | Bit++                               | [Question](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/282A%20Bit%2B%2B/solve.c)                                         |
 | 318A       | Even Odds                           | [Question](https://codeforces.com/problemset/problem/318/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/318A%20Even%20Odds/solve.cpp)                                     |
+| 337A       | Puzzles                             | [Question](https://codeforces.com/problemset/problem/337/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/337A%20Puzzles/solve.cpp)                                         |
 | 339A       | Helpful Maths                       | [Question](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/339A%20Helpful%20Maths/solve.py)                                  |
 | 344A       | Magnets                             | [Question](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/344A%20Magnets/solve.cpp)                                         |
 | 405A       | Gravity Flip                        | [Question](https://codeforces.com/problemset/problem/405/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/405A%20Gravity%20Flip/solve.cpp)                                  |
@@ -76,8 +78,6 @@ Visit [here](https://gitpod.io/#https://github.com/FahimFBA/Codeforces-Solution)
 | 791A       | Bear and Big Brother                | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c)                        |
 | 977A       | Wrong Subtraction                   | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c)                               |
 | 1030A      | In Search of an Easy Problem        | [Question](https://codeforces.com/contest/1030/problem/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1030A%20In%20Search%20of%20an%20Easy%20Problem/solve.cpp)         |
-
-
 
 
 
