@@ -28,6 +28,7 @@ Index
 | ---------- | ----------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1A         | Theatre Square                      | [Question](https://codeforces.com/problemset/problem/1/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1A%20Theatre%20Square/A.Theatre_Square.py)                        |
 | 4A         | Watermelon                          | [Question](https://codeforces.com/problemset/problem/4/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/4A%20Watermelon/Solve.c)                                          |
+| 25 A       | IQ test                             | [Question](https://codeforces.com/problemset/problem/25/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/25A%20IQ%20Test/Solve.cpp)                                        |
 | 41A        | 41A Translation                     | [Question](https://codeforces.com/problemset/problem/41/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/41A%20Translation/solve.py)                                       |
 | 50A        | Domino Piling                       | [Question](https://codeforces.com/problemset/problem/50/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/50A%20Domino%20Piling/solve.c)                                    |
 | 58A        | Chat Room                           | [Question](https://codeforces.com/problemset/problem/58/A)   | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/58A%20Chat%20Room/solve.c)                                        |
@@ -44,6 +45,7 @@ Index
 | 131A       | cAPS lOCK                           | [Question](https://codeforces.com/problemset/problem/131/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/131A%20cAPS%20lOCK/solve.cpp)                                     |
 | 133A       | HQ9+                                | [Question](https://codeforces.com/problemset/problem/133/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/133A%20HQ9%2B/solve.py)                                           |
 | 136A       | Presents                            | [Question](https://codeforces.com/problemset/problem/136/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/136A%20Presents/solve.c)                                          |
+| 141A       | Amusing Joke                        | [Question](https://codeforces.com/problemset/problem/141/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/141A%20Amusing%20Joke/solve.cpp)                                  |
 | 144A       | Arrival of the General              | [Question](https://codeforces.com/problemset/problem/144/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/144A%20Arrival%20of%20the%20General/solve.cpp)                    |
 | 148A       | Insomnia Cure                       | [Question](https://codeforces.com/contest/148/problem/A)     | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/148A%20Insomnia%20Cure/solve.cpp)                                 |
 | 158A       | Next Round                          | [Question](https://codeforces.com/problemset/problem/158/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/158A%20Next%20Round/A_Next_Round.c)                               |
@@ -78,11 +80,13 @@ Index
 | 677A       | Vanya and Fence                     | [Question](https://codeforces.com/contest/677/problem/A)     | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/677A%20Vanya%20and%20Fence/solve.cpp)                             |
 | 705A       | Hulk                                | [Question](https://codeforces.com/contest/705/problem/A)     | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/705A%20Hulk/solve.c)                                              |
 | 734A       | Anton and Danik                     | [Question](https://codeforces.com/contest/734/problem/A)     | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/734A%20Anton%20and%20Danik/solve.cpp)                             |
+| 785A       | Anton and Polyhedrons               | [Question](https://codeforces.com/problemset/problem/785/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/785A%20Anton%20and%20Polyhedrons/Main.cpp)                        |
 | 791A       | Bear and Big Brother                | [Question](https://codeforces.com/problemset/problem/791/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c)                        |
 | 977A       | Wrong Subtraction                   | [Question](https://codeforces.com/problemset/problem/977/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c)                               |
-|996A | Hit the Lottery | [Question](https://codeforces.com/problemset/problem/996/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/996A%20Hit%20the%20Lottery/solve.cpp) |
+| 996A       | Hit the Lottery                     | [Question](https://codeforces.com/problemset/problem/996/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/996A%20Hit%20the%20Lottery/solve.cpp)                             |
 | 1030A      | In Search of an Easy Problem        | [Question](https://codeforces.com/contest/1030/problem/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1030A%20In%20Search%20of%20an%20Easy%20Problem/solve.cpp)         |
 | 1328A      | Divisibility Problem                | [Question](https://codeforces.com/problemset/problem/1328/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1328A%20Divisibility%20Problem/solve.cpp)                         |
+
 
 
 
