@@ -86,11 +86,7 @@ Index
 | 996A       | Hit the Lottery                     | [Question](https://codeforces.com/problemset/problem/996/A)  | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/996A%20Hit%20the%20Lottery/solve.cpp)                             |
 | 1030A      | In Search of an Easy Problem        | [Question](https://codeforces.com/contest/1030/problem/A)    | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1030A%20In%20Search%20of%20an%20Easy%20Problem/solve.cpp)         |
 | 1328A      | Divisibility Problem                | [Question](https://codeforces.com/problemset/problem/1328/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1328A%20Divisibility%20Problem/solve.cpp)                         |
-
-
-
-
-
+| 1335A      | Candies and Two Sisters             | [Question](https://codeforces.com/problemset/problem/1335/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1335A%20Candies%20and%20Two%20Sisters/Solve.cpp)                  |
 
 
 
