@@ -4,6 +4,7 @@
 #ignore temporary files
 tempCodeRunner.cpp
 tempCodeRunner.c
+tempCodeRunner.java
 
 # non extension
 *
